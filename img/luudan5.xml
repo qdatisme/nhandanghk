@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anh</folder>
+	<filename>luudan5.jpg</filename>
+	<path>C:\Users\quocd\Downloads\windows_v1.8.1\anh\luudan5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LuuDan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>94</ymin>
+			<xmax>595</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>

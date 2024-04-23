@@ -1,0 +1,26 @@
+<annotation>
+	<folder>anh</folder>
+	<filename>sungtruong4.jpg</filename>
+	<path>C:\Users\quocd\Downloads\windows_v1.8.1\anh\sungtruong4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>495</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SungTruong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>61</ymin>
+			<xmax>643</xmax>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+</annotation>
